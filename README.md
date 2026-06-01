@@ -3,7 +3,7 @@
 Collection of projects completed during the 42 Madrid curriculum, focused on systems programming, algorithms, networking, graphics, virtualization and fullstack development.
 
 <p align="center">
-<img width="1268px" alt="1172px" src="./img/Holygraph.png">
+<img width="1268px" alt="1172px" src="./imgs/holygraph.png">
 </p>
 
 ### Projects
